@@ -57,7 +57,7 @@
 <h3>Product Walkthrough</h3>
 <video controls width="100%" poster="assets/demo_cover.jpg">
   <source src="https://huggingface.co/YuyaoTechnology/MatterSeek/blob/main/%E4%BA%A7%E5%93%81%E4%BD%BF%E7%94%A8-2.mp4" type="video/mp4">
-</video>
+</video> 
 <blockquote><b>Suggested demo path:</b>Sign in → enter a natural-language instruction or target properties → filter by elemental constraints → explore multi-dimensional result visualization → export composition / processing parameters → submit for offline validation</blockquote>
 <h2>Model Architecture</h2>
 <table>
